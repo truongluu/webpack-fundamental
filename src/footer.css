@@ -1,0 +1,12 @@
+@import 'global.css';
+
+footer {
+  height: 50px;
+  width: 100%;
+  background-color: yellowgreen;
+  border: 1px dotted red;
+}
+
+.footer-info {
+  color: white;
+}
